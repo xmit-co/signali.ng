@@ -2,16 +2,15 @@ html {
   color-scheme: dark;
   color: #bbb;
   font-family: sans-serif;
-  display: flex;
-  justify-content: center;
   background: url(data:image/gif;base64,R0lGODlhBAAEAPABAAAAAP///ywAAAAABAAEAAACBQwOhnlWADs);
+  margin: 0;
+  padding: 2em;
 }
 
 body {
-  margin: 2em;
+  margin: 0 auto 0 auto;
   padding: 2em;
-  width: 50em;
-  max-width: 100%;
+  max-width: 40em;
   background-color: #000;
   border: 1px solid #fff;
 }
